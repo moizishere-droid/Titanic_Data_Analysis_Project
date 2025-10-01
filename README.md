@@ -2,8 +2,8 @@
 
 ## 📌 Overview
 
-This project performs an in-depth **exploratory data analysis (EDA)** and machine learning modeling on the **Titanic Dataset**.
-The goal is to analyze key factors affecting survival and build models to predict passenger survival.
+This project performs an in-depth **exploratory data analysis (EDA)** on the **Titanic Dataset**.
+The goal is to analyze key factors affecting survival.
 
 We also include an **automated profiling report** (`result.html`) generated using **ydata-profiling**, providing detailed dataset insights.
 
